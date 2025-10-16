@@ -1,0 +1,15 @@
+well_ 6506_12_6/
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment folders
+venv/
+env/
+
+# Ignore your local data folder
+well_*/
+
